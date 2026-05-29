@@ -9,6 +9,15 @@
     color: #fff;
 }
 
+div{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-decoration: underline;
+    text-shadow: 2px 2px 4px #000000;
+    text-align:center;
+    background-color:aqua;
+}
+
 li{
     list-style: none;
     padding: 10px;
